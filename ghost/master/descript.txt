@@ -1,0 +1,14 @@
+
+charset,Shift_JIS
+
+craftman,Cat of MOON
+craftmanw,‚É‚Ý‚ã‚¤/ŽHŒŽ‚ê‚ñ‚°
+craftmanurl,http://nekotuki.skr.jp/
+
+name,Œq‚ª‚ê‚½•—
+type,ghost
+
+sakura.name,•—
+kero.name,–³
+
+shiori,satori.dll
